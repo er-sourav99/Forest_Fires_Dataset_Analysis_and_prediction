@@ -8,4 +8,4 @@ In this kernel, our aim is to predict the burned area (area) of forest fires, in
 
 This prediction can be used for calculating the forces sent to the incident and deciding the urgency of the situation.
 
-In the following part we've addrressed this issue using two different approaches however based on each other after imporovisations.
+In the following part we've addressed this issue using two different approaches however based on each other.
